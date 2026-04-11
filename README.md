@@ -15,7 +15,7 @@ project-da-promo-63-modulo-3-team-3/
 │
 ├── fases/                           # Carpeta con las 4 fases del proyecto
 │   ├── fase_1_2_eda_limpieza.ipynb         # Exploración y limpieza de datos
-│   ├── fase_3_visualizacion.ipynb          # Gráficos y visualizaciones
+│   ├── fase_3_visualizacion.ipynb          # Gráficos y visualizaciones finales
 │   └── fase_4_diseño_BBDD.ipynb            # Diseño de base de datos
 │
 └── consultas/                       # Carpeta con análisis y visualizaciones adicionales
@@ -52,7 +52,7 @@ project-da-promo-63-modulo-3-team-3/
 - **Para aprender**: Estructura y organización de datos
 
 ### **Consultas y Análisis**
-- **`posibles_consultas.ipynb`**: Preguntas interesantes que se pueden responder con los datos
+- **`posibles_consultas.ipynb`**: Preguntas interesantes que se pueden responder con los datos - Visualizaciones Pilar
 - **`visualizaciones-carol.ipynb`**: Análisis y gráficos creados por Carol
 - **`visualizaciones-eleonora.ipynb`**: Análisis y gráficos creados por Eleonora
 - **`visualizaciones-maria.ipynb`**: Análisis y gráficos creados por María
